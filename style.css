@@ -2,6 +2,33 @@
   background-image: url("Leonardo-Vitruvian-Man.png");
 }
 
+.title {
+  margin-top: 20px;
+  text-align: center;
+  width: 90%;
+  font-size: 42px;
+}
+
+#motto {
+  margin-top: 10px;
+  text-align: center;
+  width: 90%;
+  font-size: 24px;
+}
+
+.video-holder {
+  margin-top: 10px;
+  text-align: center;
+  width: 90%;
+  border-radius: 20px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+
+
+/* old site below this line */
+
 #videos {
   margin-top: 20px;
   text-align: center;
