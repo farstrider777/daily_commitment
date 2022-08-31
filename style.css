@@ -2,6 +2,10 @@
   background-image: url("Leonardo-Vitruvian-Man.png");
 }
 
+img {
+  border-radius: 20px;
+}
+
 .title {
   margin-top: 20px;
   text-align: center;
