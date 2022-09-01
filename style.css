@@ -20,6 +20,12 @@ img {
   font-size: 24px;
 }
 
+#store {
+  text-align: center;
+  width: 90%;
+  color: blueviolet;
+}
+
 .video-holder {
   margin-top: 10px;
   text-align: center;
